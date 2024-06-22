@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @lordfrishetti1
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning ML.NET
 <!--
 - 📫 How to reach me ...
 -->
